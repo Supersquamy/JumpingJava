@@ -1,2 +1,2 @@
 # JumpingJava
-Practising classes, objects and methods in Java on the theme of records
+Practising classes, objects and methods in Java on the theme of records, just for fun.
